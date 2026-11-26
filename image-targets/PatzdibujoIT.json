@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 37,
+    "width": 2475,
+    "height": 3300,
+    "isRotated": false,
+    "originalWidth": 2550,
+    "originalHeight": 3300
+  },
+  "imagePath": "image-targets/PatzdibujoIT_luminance.jpg",
+  "metadata": null,
+  "name": "PatzdibujoIT",
+  "resources": {
+    "originalImage": "PatzdibujoIT_original.jpg",
+    "croppedImage": "PatzdibujoIT_cropped.jpg",
+    "thumbnailImage": "PatzdibujoIT_thumbnail.jpg",
+    "luminanceImage": "PatzdibujoIT_luminance.jpg"
+  },
+  "created": 1795687626256,
+  "updated": 1795687626256
+}
